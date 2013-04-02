@@ -1,0 +1,4 @@
+CREATE TABLE user_info(
+username VARCHAR(15) NOT NULL DEFAULT '',
+password VARCHAR(12) NOT NULL DEFAULT '',
+real_name VARCHAR(25));
